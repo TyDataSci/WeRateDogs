@@ -1,1 +1,1 @@
-# Data_Wrangle Project for Udacity. Training wheels on. More to come.
+# Working with Twitter API to analyze tweets by WeRateDogs. Evaluating who is the cutest of them all.
