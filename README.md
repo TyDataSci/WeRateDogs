@@ -3,7 +3,10 @@
 
 
 # Finding the Winners
+
+
 At number one with the highest rating is Atticus, earning a 1776 out of 10! 
+
 ![Screenshot](blogpics/Picture1.jpg)
 
 At second place Snoop Dogg comes in at very impressive 420 out of 10.
