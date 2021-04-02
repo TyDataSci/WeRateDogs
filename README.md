@@ -11,13 +11,14 @@ At second place Snoop Dogg comes in at very impressive 420 out of 10.
 
 ![Screenshot](blogpics/Picture2.jpg)
 
-Removing the Global Outliers for Cleaner Comparison
+# Removing the Global Outliers for Cleaner Comparison
+
 The two winners above are data points that were accurately gathered, but their ratings are global outliers to the rest of the observations. These global outliers greatly increase the standard deviation of the field ‘rating’ in our DataFrame.
 To simplify this analysis, I decided to remove the two outliers, and take a deeper look into the distribution of the ratings by dog type.
 
 ![Screenshot](blogpics/Picture3.png)
 
-Distribution of Dog Ratings by Dog Types
+# Distribution of Dog Ratings by Dog Types
 
 With the outliers removed you can see that the total distribution of the WeRateDogs is skew the left (since the ratings are group in descending order). 
 The lower values are not nearly as common as the ratings that are either 10/10 or greater than 10/10. Ratings of 10, 11, and 12 are quite common. 
@@ -31,7 +32,7 @@ At the top, Golden Retriever appears to consistently outperform the other breeds
 Another observation that can be taken away from this plot was that WeRateDogs had a consistent pattern of rating all dogs at or above 10 out of 10, regardless of breed. 
 Although, they did like picking on the occasional Pug or Chihuah, who have suspiciously received a few more 7 to 3 ratings than the others.   
 
-Bayesian Probability of Dog Ratings for the Top 5 Dog Types
+# Bayesian Probability of Dog Ratings for the Top 5 Dog Types
 
 Once the data was discrete and the frequencies were gathered I could then use what I know about how WeRateDogs twitter account rates each dog breed and derive a probability table. 
 Using the probability table I could then calculate the bayesian conditional probability of how likely each rating was given the dog’s breed. 
@@ -55,7 +56,7 @@ Given that the rating was a 14, the liklihood that the dog is a Golden Retriever
 Given that the rating was 13, the liklihood that a dog was a Golden Retriever was 17%, the liklihood of the dog be a Pembroke 10%. Labradors and Chihuahs were both 5% likely. Of the top 5 breeds, it was the least likely a rating of a 13 would be a Pug, with only a 4% chance.
 
 
-Time Series Analysis of Twitter Activity
+# Time Series Analysis of Twitter Activity
 
 ![Screenshot](blogpics/Picture13.jpg) ![Screenshot](blogpics/Picture14.png)
 
