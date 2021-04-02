@@ -13,6 +13,7 @@ At second place Snoop Dogg comes in at very impressive 420 out of 10.
 Removing the Global Outliers for Cleaner Comparison
 The two winners above are data points that were accurately gathered, but their ratings are global outliers to the rest of the observations. These global outliers greatly increase the standard deviation of the field ‘rating’ in our DataFrame.
 To simplify this analysis, I decided to remove the two outliers, and take a deeper look into the distribution of the ratings by dog type.
+
 ![Screenshot](blogpics/Picture3.png)
 
 Distribution of Dog Ratings by Dog Types
@@ -55,10 +56,9 @@ Given that the rating was 13, the liklihood that a dog was a Golden Retriever wa
 
 Time Series Analysis of Twitter Activity
 
-![Screenshot](blogpics/Picture13.jpg)
+![Screenshot](blogpics/Picture13.jpg) ![Screenshot](blogpics/Picture14.png)
 
 
 From 2015 to Spring of 2016, WeRateDogs had relatively modest twitter traffic.  The page did make a few jumps over the 80,000 favorite threshold in December of 2015, but it took until the end of 2016 for the account to consistently hit their over 100,000 favorite count per tweet that they are now accustom to. 
 This doggo above is named Cody (Cody is his real name if you watch his now famous video).  Cody learned how to stand in the pool and earned himself the most favorites & retweets of all the dogs on WeRateDogs within this dataset. Cody’s tweet really took off when it was tweeted out on June 18th of 2016, long before it was common for WeRateDogs tweets to receive this level of activity, receiving 80, 263 retweets and 160,445 favorites. Good boy, Cody. 
-![Screenshot](blogpics/Picture14.png)
 
