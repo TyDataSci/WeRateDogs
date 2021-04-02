@@ -13,9 +13,9 @@ At second place Snoop Dogg comes in at very impressive 420 out of 10.
 Removing the Global Outliers for Cleaner Comparison
 The two winners above are data points that were accurately gathered, but their ratings are global outliers to the rest of the observations. These global outliers greatly increase the standard deviation of the field ‘rating’ in our DataFrame.
 To simplify this analysis, I decided to remove the two outliers, and take a deeper look into the distribution of the ratings by dog type.
+![Screenshot](blogpics/Picture3.png)
 
 Distribution of Dog Ratings by Dog Types
-![Screenshot](blogpics/Picture3.png)
 
 With the outliers removed you can see that the total distribution of the WeRateDogs is skew the left (since the ratings are group in descending order). 
 The lower values are not nearly as common as the ratings that are either 10/10 or greater than 10/10. Ratings of 10, 11, and 12 are quite common. 
