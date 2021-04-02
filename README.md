@@ -32,6 +32,8 @@ Bayesian Probability of Dog Ratings for the Top 5 Dog Types
 
 Once the data was discrete and the frequencies were gathered I could then use what I know about how WeRateDogs twitter account rates each dog breed and derive a probability table. 
 Using the probability table I could then calculate the bayesian conditional probability of how likely each rating was given the dog’s breed. 
+
+
 ![Screenshot](blogpics/Picture6.jpg)
 ![Screenshot](blogpics/Picture7.jpg)
 
