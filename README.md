@@ -61,7 +61,7 @@ Given that the rating was 13, the liklihood that a dog was a Golden Retriever wa
 
 # Time Series Analysis of Twitter Activity
 
-![Screenshot](blogpics/Picture13.jpg) ![Screenshot](blogpics/Picture14.png)
+![Screenshot](blogpics/Picture14.png) ![Screenshot](blogpics/Picture13.jpg) 
 
 
 From 2015 to Spring of 2016, WeRateDogs had relatively modest twitter traffic.  The page did make a few jumps over the 80,000 favorite threshold in December of 2015, but it took until the end of 2016 for the account to consistently hit their over 100,000 favorite count per tweet that they are now accustom to. 
