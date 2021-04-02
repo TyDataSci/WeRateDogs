@@ -25,7 +25,7 @@ To simplify this analysis, I decided to remove the two outliers, and take a deep
 
 With the outliers removed you can see that the total distribution of the WeRateDogs is skew the left (since the ratings are group in descending order). 
 The lower values are not nearly as common as the ratings that are either 10/10 or greater than 10/10. Ratings of 10, 11, and 12 are quite common. 
-14/10 happens at a much less frequent manner. Below, I will look more into the specific rating of 14 and see which breeds were most likely to receive it.  
+14/10 happens at a much less frequent manner. Below, I will look more into the specific rating of 14 and 13 to see which breeds were most likely to receive it.  
 ![Screenshot](blogpics/Picture4.png)
 
 This plot categorizes the distributions by dog breeds, showing a wide disparity between the frequency of ratings.
