@@ -5,6 +5,8 @@ Act Report by Tyler Sanders
 Finding the Winners
 At number one with the highest rating is Atticus, earning a 1776 out of 10! 
 ![alt text](https://https://github.com/TyDataSci/WeRateDogs/blob/master/blogpics/Picture1.jpg?raw=true)
+![Screenshot](blogpic/Picture1.jpg)
+
 At second place Snoop Dogg comes in at very impressive 420 out of 10.
 ![alt text](https://https://github.com/TyDataSci/WeRateDogs/blob/master/blogpics/Picture1.jpg?raw=true)
 
