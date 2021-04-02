@@ -56,7 +56,7 @@ At the highest end of the spectrum, a Golden Retriever has a 31% chance of recei
 
 No matter how likely one of the top 5 breeds were to get a 14 or 13, it is more likely to be part of the Other breeds category, once the cululative probabilities are all added together. The likelihood a rating of 14 or 13 was for a dog who was not part of the top 5 breeds was 74% and 64%, respectfully. 
 Given that the rating was a 14, the liklihood that the dog is a Golden Retriever is 16%. The liklihood that the dog’s breed is a Pembroke is 26%, siginifcantly higher than the Golden Retriever. Even though they both had 4 ratings of 14, the Pembroke had just over half as many observations in the dataset, 88, compared to Golden Retrievers 138 count. 
-Given that the rating was 13, the liklihood that a dog was a Golden Retriever was 17%, and the liklihood of the dog being a Pembroke 10%. Labradors and Chihuahs were both 5% likely. Of the top 5 breeds, it was the least likely a rating of a 13 would be a Pug, with only a 4% chance.
+Given that the rating was 13, the liklihood that a dog was a Golden Retriever was 17%, and the liklihood of the dog being a Pembroke 10%. Labradors and Chihuahs were both 5% likely. Of the top 5 breeds, it was the least likely that a rating of  13 would be a Pug, which only had 4% chance.
 
 
 # Time Series Analysis of Twitter Activity
