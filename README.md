@@ -1,8 +1,8 @@
 # WeRateDogs
 
 
-Act Report by Tyler Sanders
-Finding the Winners
+
+# Finding the Winners
 At number one with the highest rating is Atticus, earning a 1776 out of 10! 
 ![Screenshot](blogpics/Picture1.jpg)
 
