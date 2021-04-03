@@ -70,10 +70,12 @@ Given that the rating was 13, the liklihood that a dog is a Golden Retriever is 
 
 # Time Series Analysis of Twitter Activity
 
-![Screenshot](blogpics/Picture13.jpg) ![Screenshot](blogpics/Picture14.png) 
+![Screenshot](blogpics/Picture13.jpg) 
 
-
-From 2015 to Spring of 2016, WeRateDogs had relatively modest twitter traffic.  The page did make a few jumps over the 80,000 favorite threshold in December of 2015, but it took until the end of 2016 for the account to consistently hit their over 50,000 favorite count per tweet that they are now accustom. 
 
 This doggo above is named Cody (Cody is his real name if you watch his now famous video).  Cody learned how to stand in the pool and earned himself the most favorites & retweets of all the dogs on WeRateDogs within this dataset. Cody’s tweet really took off when it was tweeted out on June 18th of 2016, long before it was common for WeRateDogs tweets to receive this level of activity, receiving 80, 263 retweets and 160,445 favorites. Good boy, Cody. 
+
+![Screenshot](blogpics/Picture14.png) 
+
+From 2015 to Spring of 2016, WeRateDogs had relatively modest twitter traffic.  The page did make a few jumps over the 80,000 favorite threshold in December of 2015, but it took until the end of 2016 for the account to consistently hit their over 50,000 favorite count per tweet that they are now accustom. 
 
