@@ -51,6 +51,7 @@ Using the probability table I could then calculate the bayesian conditional prob
 ![Screenshot](blogpics/Picture7.jpg)
 
 I found that if a Golden Retriever is posted on WeRateDogs it has a 1% chance of receiving a rating of 9, a 10% chance of receiving a 10, a 19% of receiving an 11, but the rating the Golden Retriever is most likely to receive is a 12 out of 10, which has a probability 64%. The likelihood of receiving a rating of 12 is more than twice as likely as the next most likely rating. 
+
 At the highest end of the spectrum, a Golden Retriever has a 31% chance of receiving a 13 and a 4% chance of receiving a rating of 14. Next up I will take a look at the inverse conditional probabilities, the liklihood of the dog breed given that the rating is a 13 as well as the likelihood of the dog breed given the rating is a 14.
 ![Screenshot](blogpics/Picture8.jpg)
 
