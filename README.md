@@ -32,6 +32,7 @@ The lower values are not nearly as common as the ratings that are either 10/10 o
 ![Screenshot](blogpics/Picture4.png)
 
 This plot categorizes the distributions by dog breeds, showing subtle disparities between the frequency of ratings.
+
 ![Screenshot](blogpics/Picture5.png)
 
 At the top, Golden Retriever appears to consistently outperform the other breeds, receiving the most 14’s, 13, and 12’s. The frequency of ratings also shows that the most common dog breed detected in the data set was Golden Retriever, with a count of 138 out of the 1977. 
