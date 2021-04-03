@@ -77,5 +77,5 @@ This doggo above is named Cody (Cody is his real name if you watch his now famou
 
 ![Screenshot](blogpics/Picture14.png) 
 
-From 2015 to Spring of 2016, WeRateDogs had relatively modest twitter traffic.  The page did make a few jumps over the 80,000 favorite threshold in December of 2015, but it took until the end of 2016 for the account to consistently hit their over 50,000 favorite count per tweet that they are now accustom. 
+From 2015 to Spring of 2016, WeRateDogs had relatively modest twitter traffic.  The page did make a few jumps over the 80,000 favorite threshold in December of 2015, but it took until the end of 2016 for the account to consistently hit their over 50,000 favorite count per tweet that they are now accustom to. 
 
