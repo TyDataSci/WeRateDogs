@@ -25,6 +25,7 @@ To simplify this analysis, I decided to remove the two outliers, and take a deep
 
 With the outliers removed you can see that the total distribution of the WeRateDogs is skew the left (since the ratings are group in descending order). 
 The lower values are not nearly as common as the ratings that are either 10/10 or greater than 10/10. Ratings of 10, 11, and 12 are quite common. 
+
 14/10 happens at a much less frequent manner. Below, I will look more into the specific rating of 14 and 13 to see which breeds were most likely to receive it.  
 ![Screenshot](blogpics/Picture4.png)
 
@@ -32,7 +33,9 @@ This plot categorizes the distributions by dog breeds, showing subtle disparitie
 ![Screenshot](blogpics/Picture5.png)
 
 At the top, Golden Retriever appears to consistently outperform the other breeds, receiving the most 14’s, 13, and 12’s. The frequency of ratings also shows that the most common dog breed detected in the data set was Golden Retriever, with a count of 138 out of the 1977. 
+
 Another observation that can be taken away from this plot was that WeRateDogs had a consistent pattern of rating all dogs at or above 10 out of 10, regardless of breed. 
+
 Although, they did like picking on the occasional Pug or Chihuah, who have suspiciously received a few more 7 to 3 ratings than the others.   
 
 # Bayesian Probability of Dog Ratings for the Top 5 Dog Types
