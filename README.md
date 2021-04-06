@@ -61,7 +61,7 @@ At the highest end of the spectrum, a Golden Retriever has a 31% chance of recei
 ![Screenshot](blogpics/Picture11.jpg)
 ![Screenshot](blogpics/Picture12.jpg)
 
-No matter how likely one of the top 5 breeds were to get a 14 or 13, it is more likely to be part of the Other breeds category, once the cumulative probabilities are all added together. The likelihood a rating of 14 or 13 was for a dog who was not part of the top 5 breeds was 74% and 64%, respectfully. 
+No matter how likely one of the top 5 breeds were to get a 14 or 13, it is more likely to be part of the Other breeds category, once the cumulative probabilities are all added together. The likelihood that a rating of 14 or 13 for a breed other than the top 5 was 74% and 64%, respectfully. 
 
 Given that the rating was a 14, the liklihood that the dog is a Golden Retriever is 16%. The liklihood that the dog’s breed is a Pembroke is 26%, siginifcantly higher than the Golden Retriever. Even though they both had 4 ratings of 14, the Pembroke had just over half as many observations in the dataset, 88, compared to Golden Retrievers 138 count. 
 
