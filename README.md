@@ -1,5 +1,8 @@
 # WeRateDogs
-#### Below I have performed data mining using the Twitter API of the popular twitter account of WeRateDogs. Joined JSON with image predictions to evaluate dog ratings by dog breeds. Developed Bayesian probability tables used to derive conditional probabilities. Constructed a time series for the twitter activity from 2015 through 2017.
+#### Below I have performed data mining using the Twitter API of the popular twitter account of WeRateDogs. 
+- Joined JSON with image predictions to evaluate dog ratings by dog breeds. 
+- Developed Bayesian probability tables used to derive conditional probabilities. 
+- Constructed a time series for the twitter activity from 2015 through 2017.
 
 Python Notebook used to generate my analysis can be found <a href='https://github.com/TyDataSci/WeRateDogs/blob/master/wrangle_act.ipynb'>here</a> 
 
