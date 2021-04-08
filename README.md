@@ -1,4 +1,4 @@
-# WeRateDogs
+# WeRateDogs Twitter API Mining
 #### Below I have performed data mining using the Twitter API of the popular twitter account of WeRateDogs. 
 - Joined JSON with image predictions to evaluate dog ratings by dog breeds. 
 - Developed Bayesian probability tables used to derive conditional probabilities. 
